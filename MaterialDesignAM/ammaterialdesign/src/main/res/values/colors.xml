@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_theme_color">#ff4644aa</color>
+
+    <!--RippleView 水波纹-->
+    <color name="rippelColor">#FFFFFF</color>
+    <!--dialogplus-->
+    <color name="card_shadow">#D4D4D4</color>
+    <color name="black_overlay">#60000000</color>
+    <color name="white_overlay">#40FFFFFF</color>
+
+</resources>

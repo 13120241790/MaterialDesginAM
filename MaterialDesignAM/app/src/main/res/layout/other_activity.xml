@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4644aa"
+    android:orientation="vertical">
+
+    <com.material.am.button.CircleButton
+        android:id="@+id/button1"
+        android:layout_width="64dip"
+        android:layout_height="64dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dip"
+        android:src="@mipmap/ic_launcher"
+        app:cb_color="#FFBB33" />
+
+    <com.material.am.button.CircleButton
+        android:id="@+id/button2"
+        android:layout_width="64dip"
+        android:layout_height="64dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dip"
+        android:src="@drawable/ic_mail_black_24dp"
+        app:cb_color="#FF1B37" />
+
+
+</LinearLayout>

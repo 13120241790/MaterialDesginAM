@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_theme_color">#ff4644aa</color>
+    <!--MaterialTextField-->
+    <color name="blue">#2e60bb</color>
+    <color name="gray">#e2e6e9</color>
+
+    <!--dialogplus use-->
+    <color name="primary">#EF5350</color>
+    <color name="secondary">#B71C1C</color>
+    <color name="overlay_light">#F8F8F8</color>
+</resources>
